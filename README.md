@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Contributors](https://img.shields.io/badge/All%20Contributors-3-COLOR)]()
-
 <!--
 **Glya-Corporation/Glya-corporation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
